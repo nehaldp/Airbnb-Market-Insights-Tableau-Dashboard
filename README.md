@@ -1,4 +1,4 @@
-# Airbnb-Market-Insights-Tableau-Dashboard
+# Airbnb Market Insights: Tableau Dashboard
 # Project Overview
 This project dashboard provides insights into Seattle's 2016 Airbnb market, highlighting pricing trends and availability. Through visualizations of average price per bedroom, geographic price distributions, and monthly revenue trends, it presents a comprehensive view of Airbnb rental dynamics across Seattle neighborhoods.
 
